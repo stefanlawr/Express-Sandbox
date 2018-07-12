@@ -1,0 +1,23 @@
+# Numerous always-ignore extensions
+*.vi
+*.sh
+*.sass-cache
+node_modules/
+.tmp/
+public/
+build/
+dist/
+
+# OS or Editor folders
+.DS_Store
+.cache
+.vscode
+
+# Personal Ignore Extensions
+tempCodeRunnerFile.*
+*.txt
+*.log
+*.*-log
+yarn.lock
+shrinkwrap.yaml
+package-lock.json
